@@ -1,0 +1,6 @@
+{
+  "name": "Karishma Weds Mohit | Wedding Invitation",
+  "description": "An interactive digital Indian wedding invitation celebrating Karishma Puri and Mohit Bhardwaj.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
